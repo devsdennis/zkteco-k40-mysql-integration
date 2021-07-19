@@ -1,0 +1,71 @@
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\AxInterop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\RTEvents.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\bin\x86\Release\RTEvents.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\bin\x86\Release\RTEvents.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\bin\x86\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\bin\x86\Release\AxInterop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\RTEvents.RTEventsMain.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\RTEvents.Properties.Resources.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\RTEvents.csproj.GenerateResource.Cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\RTEvents.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\RTEvents\obj\x86\Release\RTEvents.pdb
+F:\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.csprojAssemblyReference.cache
+F:\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.csproj.ResolveComReference.cache
+F:\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.RTEventsMain.resources
+F:\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.Properties.Resources.resources
+F:\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.csproj.GenerateResource.cache
+F:\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.exe
+F:\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.pdb
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\bin\x86\Release\RTEvents.exe
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\bin\x86\Release\RTEvents.pdb
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\bin\x86\Release\Interop.zkemkeeper.dll
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\bin\x86\Release\AxInterop.zkemkeeper.dll
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.csprojAssemblyReference.cache
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\Interop.zkemkeeper.dll
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\AxInterop.zkemkeeper.dll
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.csproj.ResolveComReference.cache
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.RTEventsMain.resources
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.Properties.Resources.resources
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.csproj.GenerateResource.cache
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.exe
+E:\Flash\zk\Z.KSDK 6.3.1.37\Demo-Ver1.1.15\old\C#\TFT\RTEvents\obj\x86\Release\RTEvents.pdb
+E:\Apps\R\bin\x86\Release\RTEvents.exe
+E:\Apps\R\bin\x86\Release\RTEvents.pdb
+E:\Apps\R\bin\x86\Release\Interop.zkemkeeper.dll
+E:\Apps\R\bin\x86\Release\AxInterop.zkemkeeper.dll
+E:\Apps\R\obj\x86\Release\RTEvents.csprojAssemblyReference.cache
+E:\Apps\R\obj\x86\Release\Interop.zkemkeeper.dll
+E:\Apps\R\obj\x86\Release\AxInterop.zkemkeeper.dll
+E:\Apps\R\obj\x86\Release\RTEvents.csproj.ResolveComReference.cache
+E:\Apps\R\obj\x86\Release\RTEvents.RTEventsMain.resources
+E:\Apps\R\obj\x86\Release\RTEvents.Properties.Resources.resources
+E:\Apps\R\obj\x86\Release\RTEvents.csproj.GenerateResource.cache
+E:\Apps\R\obj\x86\Release\RTEvents.exe
+E:\Apps\R\obj\x86\Release\RTEvents.pdb
+E:\Apps\R\bin\x86\Release\Antlr3.Runtime.dll
+E:\Apps\R\obj\x86\Release\RTEvents.csproj.CopyComplete
+E:\Apps\R\bin\x86\Release\RTEvents.exe.config
+E:\Apps\R\bin\x86\Release\MySql.Data.dll
+E:\Apps\R\bin\x86\Release\BouncyCastle.Crypto.dll
+E:\Apps\R\bin\x86\Release\Renci.SshNet.dll
+E:\Apps\R - Copy\bin\x86\Release\RTEvents.exe.config
+E:\Apps\R - Copy\bin\x86\Release\RTEvents.exe
+E:\Apps\R - Copy\bin\x86\Release\RTEvents.pdb
+E:\Apps\R - Copy\bin\x86\Release\Antlr3.Runtime.dll
+E:\Apps\R - Copy\bin\x86\Release\MySql.Data.dll
+E:\Apps\R - Copy\bin\x86\Release\BouncyCastle.Crypto.dll
+E:\Apps\R - Copy\bin\x86\Release\Renci.SshNet.dll
+E:\Apps\R - Copy\bin\x86\Release\Interop.zkemkeeper.dll
+E:\Apps\R - Copy\bin\x86\Release\AxInterop.zkemkeeper.dll
+E:\Apps\R - Copy\obj\x86\Release\RTEvents.csprojAssemblyReference.cache
+E:\Apps\R - Copy\obj\x86\Release\Interop.zkemkeeper.dll
+E:\Apps\R - Copy\obj\x86\Release\AxInterop.zkemkeeper.dll
+E:\Apps\R - Copy\obj\x86\Release\RTEvents.csproj.ResolveComReference.cache
+E:\Apps\R - Copy\obj\x86\Release\RTEvents.RTEventsMain.resources
+E:\Apps\R - Copy\obj\x86\Release\RTEvents.Properties.Resources.resources
+E:\Apps\R - Copy\obj\x86\Release\RTEvents.csproj.GenerateResource.cache
+E:\Apps\R - Copy\obj\x86\Release\RTEvents.csproj.CopyComplete
+E:\Apps\R - Copy\obj\x86\Release\RTEvents.exe
+E:\Apps\R - Copy\obj\x86\Release\RTEvents.pdb
